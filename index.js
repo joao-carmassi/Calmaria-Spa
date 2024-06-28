@@ -12,6 +12,7 @@ function gerenciarFocoModal(modalId) {
   primeiroElemento.focus();
 
   let a;
+  let b;
 
   modal.addEventListener("keydown", (event) => {
     if (event.key === "Tab") {
