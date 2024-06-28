@@ -11,6 +11,8 @@ function gerenciarFocoModal(modalId) {
 
   primeiroElemento.focus();
 
+  let a;
+
   modal.addEventListener("keydown", (event) => {
     if (event.key === "Tab") {
       if (event.shiftKey) {
