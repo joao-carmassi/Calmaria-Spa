@@ -28,3 +28,6 @@ Você pode [acessar o figma do projeto aqui](https://www.figma.com/file/1pDTUXo7
 ## 🛠️ Abrir e rodar o projeto
 
 Você pode abrir uma página o `index.html`, utilizando o VSCode com a extensão `Live Server` para visualização e atualização automáticas ou abra o arquivo `index.html` diretamente no navegador e atualize manualmente após alterações. Ambos os métodos exibem a página no navegador.
+
+## Link:
+https://joao-carmassi.github.io/Calmaria-Spa/
